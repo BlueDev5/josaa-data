@@ -34,7 +34,7 @@ IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,74,74
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,346,355
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,787,787
-IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,21,21
+IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,21,21
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,657,859
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1208,2212
 IIT,Indian Institute of Technology Bhubaneswar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,34,34
@@ -71,7 +71,7 @@ IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication En
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,178,178
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,614,662
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,959,959
-IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,,N,11P,11P
+IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,11P,11P
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,1318,1701
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,2826,3246
 IIT,Indian Institute of Technology Bhubaneswar,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,876,1090
@@ -178,7 +178,7 @@ IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor 
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,141,156
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,457,693
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,1370,1628
-IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,,N,2P,2P
+IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,2P,2P
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,1022,1633
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,2638,4889
 IIT,Indian Institute of Technology Bombay,"Civil Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,38P,68P
@@ -191,7 +191,7 @@ IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Y
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,2,5
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,5,18
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,48,57
-IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,2,2
+IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,2,2
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,9,51
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,29,136
 IIT,Indian Institute of Technology Bombay,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,1,2
@@ -329,7 +329,7 @@ IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Ye
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,139,139
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,419,462
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,1087,1087
-IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,9,9
+IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,9,9
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,764,1212
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,2446,2572
 IIT,Indian Institute of Technology Mandi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,59,59
@@ -413,7 +413,7 @@ IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor o
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,47,59
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,522,713
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,1634,1805
-IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,,N,19P,19P
+IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,19P,19P
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,1086,1750
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,3923,4666
 IIT,Indian Institute of Technology Delhi,"Civil Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,362,860
@@ -426,7 +426,7 @@ IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Ye
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,7,8
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,19,28
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,81,87
-IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,3,3
+IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,3,3
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,30,87
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,139,266
 IIT,Indian Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,3,3
@@ -523,7 +523,7 @@ IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Ba
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,OPPH,F,96,96
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,EWNO,N,62,85
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,EWNO,F,167,169
-IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,,N,6,6
+IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,EWPH,N,6,6
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,BCNO,N,94,243
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,BCNO,F,642,933
 IIT,Indian Institute of Technology Delhi,"Mathematics and Computing (4 Years, Bachelor of Technology)",AI,BCPH,N,20,20
@@ -753,7 +753,7 @@ IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,14,17
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,45,45
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,35,52
-IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,7,7
+IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,7,7
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,89,138
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,250,353
 IIT,Indian Institute of Technology Kharagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,10,10
@@ -790,7 +790,7 @@ IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, B
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,77,77
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,288,326
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,502,502
-IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,,N,19,19
+IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,19,19
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,594,851
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1761,2296
 IIT,Indian Institute of Technology Kharagpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,54,54
@@ -813,7 +813,7 @@ IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communi
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,85P,85P
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,133,194
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,476,485
-IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,,N,14,14
+IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,14,14
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,235,510
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,484,1252
 IIT,Indian Institute of Technology Kharagpur,"Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,40,40
@@ -896,7 +896,7 @@ IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,OPPH,N,79,79
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,OPPH,F,182,182
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,EWNO,N,200,253
-IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,,N,13P,13P
+IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,EWPH,N,13P,13P
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,BCNO,N,323,761
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,BCNO,F,811,2331
 IIT,Indian Institute of Technology Kharagpur,"Mathematics and Computing (4 Years, Bachelor of Science)",AI,BCPH,N,8P,8P
@@ -1288,7 +1288,7 @@ IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Y
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,78,78
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,41,55
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,143,160
-IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,4,4
+IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,4,4
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,90,155
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,285,480
 IIT,Indian Institute of Technology Kanpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,4,4
@@ -1324,7 +1324,7 @@ IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bach
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,56P,56P
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,227,287
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,584,705
-IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,,N,21P,21P
+IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,21P,21P
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,356,696
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1702,2367
 IIT,Indian Institute of Technology Kanpur,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,11P,15P
@@ -1347,7 +1347,7 @@ IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing 
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,OPPH,N,118,118
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,EWNO,N,137,212
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,EWNO,F,504,504
-IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,,N,17,17
+IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,EWPH,N,17,17
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,BCNO,N,309,681
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,BCNO,F,1558,2314
 IIT,Indian Institute of Technology Kanpur,"Mathematics and Scientific Computing (4 Years, Bachelor of Science)",AI,BCPH,N,57,57
@@ -1552,7 +1552,7 @@ IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,F,3000,3277
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,191,225
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,475,475
-IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,20,20
+IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,20,20
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,446,623
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1078,1098
 IIT,Indian Institute of Technology Gandhinagar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,18,18
@@ -1784,7 +1784,7 @@ IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bac
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,155,167
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,251,378
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,707,790
-IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,,N,14P,14P
+IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,14P,14P
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,629,982
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1562,2559
 IIT,Indian Institute of Technology Roorkee,"Electrical Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,32P,32P
@@ -1927,7 +1927,7 @@ IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineeri
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,57,87
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,342,426
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,730,980
-IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,25,25
+IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,25,25
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,561,1056
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1350,2384
 IIT,Indian Institute of Technology (ISM) Dhanbad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,39,41
@@ -2058,7 +2058,7 @@ IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Ye
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,56,95
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,226,333
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,712,857
-IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,26,26
+IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,26,26
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,673,1089
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1989,2419
 IIT,Indian Institute of Technology Ropar,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,29,29
@@ -2415,7 +2415,7 @@ IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engin
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,84,84
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,221,275
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,611,670
-IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,,N,18,18
+IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,18,18
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,588,852
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,1530,2016
 IIT,Indian Institute of Technology Guwahati,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,12P,12P
@@ -2913,7 +2913,7 @@ NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics 
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,613,613
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2241,2405
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3495,3495
-NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,F,198,198
+NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,198,198
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,3835,5220
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,7327,8659
 NIT,"Dr. B R Ambedkar National Institute of Technology, Jalandhar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,264,264
@@ -3085,7 +3085,7 @@ NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engin
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,41,41
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,798,869
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,1577,1577
-NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,,N,21,21
+NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,21,21
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,1145,1758
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,1929,2264
 NIT,Malaviya National Institute of Technology Jaipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,44,44
@@ -3151,7 +3151,7 @@ NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communicat
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,1103,1103
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1311,1452
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,2209,2209
-NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,N,46,46
+NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,46,46
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2105,3325
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5636,6053
 NIT,Malaviya National Institute of Technology Jaipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,84,84
@@ -3175,7 +3175,7 @@ NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,1153,1153
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,3315,3416
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,5391,5391
-NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,,N,207,207
+NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,207,207
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,6007,7877
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,14302,14693
 NIT,Malaviya National Institute of Technology Jaipur,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,3719,4240
@@ -3287,7 +3287,7 @@ NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and E
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,182,254
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1013,1208
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,2164,2184
-NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,44,44
+NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,44,44
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2109,2755
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,4854,5062
 NIT,Maulana Azad National Institute of Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,104,104
@@ -3302,7 +3302,7 @@ NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,987,1304
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,3798,4023
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,4871,4871
-NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,,N,211,211
+NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,211,211
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,6782,8423
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,9381,10462
 NIT,Maulana Azad National Institute of Technology Bhopal,"Electrical Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,677,677
@@ -3400,7 +3400,7 @@ NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,1497,1529
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,4721,4855
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,7062,7444
-NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,,N,184,184
+NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,184,184
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,8564,10775
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,14845,17206
 NIT,Maulana Azad National Institute of Technology Bhopal,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,4055,5263
@@ -3455,7 +3455,7 @@ NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineeri
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,28119,31680
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,3356,3356
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,5388,5388
-NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,,N,177,177
+NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,177,177
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,6984,7820
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,11654,11654
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Chemical Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,702,702
@@ -3479,7 +3479,7 @@ NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering 
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,662,662
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,4119,4466
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,6025,6025
-NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,,N,195,195
+NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,195,195
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,7712,9148
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,11081,14081
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Civil Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,4316,5387
@@ -3506,7 +3506,7 @@ NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science a
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,89,96
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,525,701
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,875,1223
-NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,F,105,105
+NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,105,105
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,872,1305
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,1464,3014
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,50,62
@@ -3573,7 +3573,7 @@ NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Enginee
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,582,582
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,2698,2766
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,4736,4918
-NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,,N,106,106
+NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,106,106
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,4685,6566
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,9297,10869
 NIT,Motilal Nehru National Institute of Technology Allahabad,"Mechanical Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,241,241
@@ -3897,7 +3897,7 @@ NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachel
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,941,941
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,5367,5705
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,6614,6614
-NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,,N,210,210
+NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,210,210
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,9995,11538
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,14137,14787
 NIT,National Institute of Technology Calicut,"Civil Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,3693,5118
@@ -3947,7 +3947,7 @@ NIT,National Institute of Technology Calicut,"Electrical and Electronics Enginee
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,1243,1243
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2046,2392
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3100,3100
-NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,,N,79,79
+NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,79,79
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,3561,4881
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5405,6048
 NIT,National Institute of Technology Calicut,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,300,300
@@ -3975,7 +3975,7 @@ NIT,National Institute of Technology Calicut,"Electronics and Communication Engi
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,446,446
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1225,1389
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,1549,1549
-NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,F,119,119
+NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,119,119
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,1941,2926
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,3219,3761
 NIT,National Institute of Technology Calicut,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,F,389,389
@@ -4031,7 +4031,7 @@ NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, B
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,1484,1484
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,3294,3530
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,4961,5680
-NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,,N,218,218
+NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,218,218
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,6041,7418
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,10497,12124
 NIT,National Institute of Technology Calicut,"Mechanical Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,2613,3659
@@ -4090,7 +4090,7 @@ NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,440,440
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1213,1403
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,1729,1729
-NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,73,73
+NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,73,73
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,1958,3127
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5090,5837
 NIT,National Institute of Technology Delhi,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,F,156,156
@@ -4113,7 +4113,7 @@ NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bac
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,19761,24923
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,3282,3370
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,4830,4830
-NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,,N,158,158
+NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,158,158
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,5686,7222
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,10780,11161
 NIT,National Institute of Technology Delhi,"Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,411,411
@@ -4134,7 +4134,7 @@ NIT,National Institute of Technology Delhi,"Electronics and Communication Engine
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPNO,N,11054,16068
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,16947,22242
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2217,2238
-NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,F,212,212
+NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,212,212
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,4293,5128
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,7923,9371
 NIT,National Institute of Technology Delhi,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,1981,2365
@@ -4255,7 +4255,7 @@ NIT,National Institute of Technology Durgapur,"Computer Science and Engineering 
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,OPPH,F,161,161
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,2115,2811
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,2729,3796
-NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,,N,200,200
+NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,200,200
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,3560,7688
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,8438,14738
 NIT,National Institute of Technology Durgapur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,53,53
@@ -4596,7 +4596,7 @@ NIT,National Institute of Technology Hamirpur,"Electronics and Communication Eng
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,625,625
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2456,2628
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3988,3988
-NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,N,115,115
+NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,115,115
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,5262,5784
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,9418,10371
 NIT,National Institute of Technology Hamirpur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,333,333
@@ -4789,7 +4789,7 @@ NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science an
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,14,14
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,202,247
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,356,356
-NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,10,10
+NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,10,10
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,282,444
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,681,769
 NIT,"National Institute of Technology Karnataka, Surathkal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,F,31,31
@@ -4838,7 +4838,7 @@ NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Com
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,307,307
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,659,841
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,963,963
-NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,N,35,35
+NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,35,35
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,1375,1566
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,2609,2720
 NIT,"National Institute of Technology Karnataka, Surathkal","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,16,16
@@ -4888,7 +4888,7 @@ NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineer
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,340,340
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2038,2206
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3670,4137
-NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,,N,113,113
+NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,113,113
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2787,4629
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,9139,9710
 NIT,"National Institute of Technology Karnataka, Surathkal","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,372,372
@@ -4955,7 +4955,7 @@ NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPNO,N,15283,18501
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,23932,23932
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2843,2843
-NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,61,61
+NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,61,61
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,5087,5915
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,8297,8297
 NIT,National Institute of Technology Meghalaya,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,1788,1788
@@ -5015,7 +5015,7 @@ NIT,National Institute of Technology Nagaland,"Computer Science and Engineering 
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,36813,36813
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,1472,1472
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,4599,4708
-NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,142,142
+NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,142,142
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,8206,8388
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,15820,15820
 NIT,National Institute of Technology Nagaland,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,2928,3101
@@ -5107,7 +5107,7 @@ NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,OPPH,F,375,375
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,2133,2186
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,3939,3943
-NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,,N,63,63
+NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,63,63
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,3699,4817
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,6359,7440
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,136,136
@@ -5123,7 +5123,7 @@ NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,826,826
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1890,2062
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3094,3170
-NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,51,51
+NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,51,51
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,3173,3918
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,6735,7796
 NIT,National Institute of Technology Patna,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,147,147
@@ -5161,7 +5161,7 @@ NIT,National Institute of Technology Patna,"Computer Science and Engineering wit
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,OPNO,N,12697,16322
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,OPNO,F,25030,25030
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,EWNO,N,2313,2313
-NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,,N,78,78
+NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,EWPH,N,78,78
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,BCNO,N,3984,4727
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,BCNO,F,10528,10528
 NIT,National Institute of Technology Patna,"Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",OS,SCNO,N,2511,2511
@@ -5338,7 +5338,7 @@ NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engi
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,OPNO,N,27885,35794
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,OPNO,F,35765,37638
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,6088,6088
-NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,,N,155,155
+NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,155,155
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,9822,11219
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,12393,12393
 NIT,National Institute of Technology Puducherry,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,739,739
@@ -5489,7 +5489,7 @@ NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,210,210
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1512,1593
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,2226,2226
-NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,F,114,114
+NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,114,114
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2586,3223
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5255,5997
 NIT,National Institute of Technology Raipur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,127,127
@@ -5535,7 +5535,7 @@ NIT,National Institute of Technology Raipur,"Electronics and Communication Engin
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,1410,1410
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2483,2629
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3624,3624
-NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,N,136,136
+NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,136,136
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,4351,5712
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,8524,9084
 NIT,National Institute of Technology Raipur,"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,299,299
@@ -5558,7 +5558,7 @@ NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Ba
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,OPPH,N,258,258
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,EWNO,N,1873,1957
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,EWNO,F,3134,3134
-NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,,N,85,85
+NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,EWPH,N,85,85
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,BCNO,N,3339,4075
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,BCNO,F,6227,7485
 NIT,National Institute of Technology Raipur,"Information Technology (4 Years, Bachelor of Technology)",OS,SCNO,N,1641,2089
@@ -5792,7 +5792,7 @@ NIT,"National Institute of Technology, Jamshedpur","Computer Science and Enginee
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,465,465
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1227,1384
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,1842,1842
-NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,59,59
+NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,59,59
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2106,2647
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5130,5839
 NIT,"National Institute of Technology, Jamshedpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,75,75
@@ -5841,7 +5841,7 @@ NIT,"National Institute of Technology, Jamshedpur","Electronics and Communicatio
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,631,631
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2129,2258
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3150,3150
-NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,,N,131,131
+NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,131,131
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,3925,5205
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,6945,8261
 NIT,"National Institute of Technology, Jamshedpur","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,289,289
@@ -6374,8 +6374,8 @@ NIT,"National Institute of Technology, Rourkela","Computer Science and Engineeri
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,43,43
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,352,473
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,539,539
-NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,20,20
-NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,F,60,100
+NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,20,20
+NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,F,60,100
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,663,930
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,1114,1380
 NIT,"National Institute of Technology, Rourkela","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,23,23
@@ -6403,7 +6403,7 @@ NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Year
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,554,554
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1723,1905
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,2724,2724
-NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,,N,125,125
+NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,125,125
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2930,4127
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5951,6401
 NIT,"National Institute of Technology, Rourkela","Electrical Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,293,293
@@ -6687,7 +6687,7 @@ NIT,"National Institute of Technology, Silchar","Electronics and Communication E
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,OPPH,F,2000,2000
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,5350,6028
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,9008,9008
-NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,,N,173,173
+NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,173,173
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,9853,19335
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,19806,35593
 NIT,"National Institute of Technology, Silchar","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,SCNO,N,3438,5271
@@ -6974,7 +6974,7 @@ NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Ye
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,233,233
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2779,3281
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,5379,5379
-NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,,N,116,116
+NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,116,116
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,5424,6843
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,10544,11428
 NIT,"National Institute of Technology, Tiruchirappalli","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,196,196
@@ -7097,7 +7097,7 @@ NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering 
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,334,334
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1493,1855
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3940,3940
-NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,,N,88,88
+NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,88,88
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2404,4098
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,6785,8730
 NIT,"National Institute of Technology, Tiruchirappalli","Mechanical Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,290,290
@@ -7291,7 +7291,7 @@ NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Ba
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,270,270
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,4359,4618
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,4780,4780
-NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,,N,38,38
+NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,38,38
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,8061,10690
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,10854,11929
 NIT,"National Institute of Technology, Warangal","Civil Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,282,282
@@ -7328,7 +7328,7 @@ NIT,"National Institute of Technology, Warangal","Computer Science and Engineeri
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,55,55
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,258,287
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,420,420
-NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,17,17
+NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,17,17
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,386,662
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,790,1128
 NIT,"National Institute of Technology, Warangal","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,SCNO,N,85,206
@@ -7353,7 +7353,7 @@ NIT,"National Institute of Technology, Warangal","Electrical and Electronics Eng
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,266,266
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,1267,1497
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,2073,2073
-NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,,N,64,64
+NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,64,64
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,2716,3454
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,3716,4491
 NIT,"National Institute of Technology, Warangal","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCPH,F,347,347
@@ -7499,7 +7499,7 @@ NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineer
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,1767,1767
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,6075,6236
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,7951,7951
-NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,,N,244,244
+NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,244,244
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,11528,12473
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,17313,18301
 NIT,"Sardar Vallabhbhai National Institute of Technology, Surat","Civil Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,864,864
@@ -7704,7 +7704,7 @@ NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science an
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,151,151
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,746,815
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,1203,1203
-NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,26,26
+NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,26,26
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,1211,1627
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,1672,3001
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,66,66
@@ -7718,7 +7718,7 @@ NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Elec
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,874,1067
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,2434,2750
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,5753,5753
-NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,,N,224,224
+NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,224,224
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,4219,5929
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,7733,9190
 NIT,"Visvesvaraya National Institute of Technology, Nagpur","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,447,447
@@ -7898,7 +7898,7 @@ NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Eng
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,OPPH,F,329,329
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,2543,2745
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,3361,3531
-NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,,N,111,111
+NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,111,111
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,4415,5828
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,5110,7940
 NIT,"National Institute of Technology, Andhra Pradesh","Computer Science and Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,123,123
@@ -7923,7 +7923,7 @@ NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electroni
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,OPPH,N,754,754
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,N,5306,5538
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWNO,F,6540,6540
-NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,,N,179,179
+NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,EWPH,N,179,179
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,N,9583,11661
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCNO,F,12948,14286
 NIT,"National Institute of Technology, Andhra Pradesh","Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OS,BCPH,N,703,703
@@ -7936,7 +7936,7 @@ NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communic
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,OPPH,N,623,623
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWNO,N,3340,3658
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWNO,F,3655,4125
-NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,,N,82,82
+NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,EWPH,N,82,82
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,BCNO,N,5905,7296
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,BCNO,F,6209,9640
 NIT,"National Institute of Technology, Andhra Pradesh","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",HS,BCPH,N,353,353
@@ -8215,7 +8215,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,OPPH,N,399,399
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,EWNO,N,1567,1776
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,EWNO,F,3015,3491
-3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,,N,102,102
+3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,EWPH,N,102,102
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,BCNO,N,2806,4363
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,BCNO,F,6657,8419
 3IT,Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior,"Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",AI,BCPH,N,248,248
@@ -8239,7 +8239,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,N,13916,20518
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,489,926
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,2887,3299
-3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,247,247
+3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,247,247
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,5198,7528
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,413,459
 3IT,"Indian Institute of Information Technology (IIIT)Kota, Rajasthan","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,2172,4861
@@ -8290,7 +8290,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,N,12675,20072
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,873,946
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,2813,3156
-3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,197,197
+3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,197,197
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,5468,7996
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,370,498
 3IT,"Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,3542,5239
@@ -8359,7 +8359,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,984,984
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,1295,1574
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,2337,2872
-3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,,N,71,71
+3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,71,71
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,2832,3760
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,5145,6997
 3IT,"Indian Institute of Information Technology, Allahabad","Electronics and Communication Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,188,188
@@ -8384,7 +8384,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,OPPH,F,250,250
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,EWNO,N,660,852
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,EWNO,F,1305,1813
-3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,,N,33,33
+3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,EWPH,N,33,33
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,BCNO,N,1099,2024
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,BCNO,F,2975,4532
 3IT,"Indian Institute of Information Technology, Allahabad","Information Technology (4 Years, Bachelor of Technology)",AI,BCPH,N,89,133
@@ -8481,7 +8481,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,962,962
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,1868,2192
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,3004,3240
-3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,99,99
+3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,99,99
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,3131,4937
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,6469,8173
 3IT,"Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,263,345
@@ -8560,7 +8560,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,950,950
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,3694,4041
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,4723,5370
-3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,252,252
+3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,252,252
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,6282,9082
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,10519,13644
 3IT,Indian Institute of Information Technology Tiruchirappalli,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,2296,4052
@@ -8765,7 +8765,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,N,13738,24793
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,566,1069
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,3493,4084
-3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,168,168
+3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,168,168
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,6656,9240
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,423,588
 3IT,Indian Institute of Information Technology (IIIT) Nagpur,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,3762,6239
@@ -8811,7 +8811,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,F,652,652
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,2232,2579
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,3424,4001
-3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,101,101
+3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,101,101
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,4086,6001
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,6335,10230
 3IT,Indian Institute of Information Technology (IIIT) Pune,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,304,383
@@ -8865,7 +8865,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,N,16218,23777
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPPH,N,766,766
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,3402,3762
-3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,213,213
+3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,213,213
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,6049,8280
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCPH,N,354,354
 3IT,Indian Institute of Information Technology Bhopal,"Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,3848,5811
@@ -8916,7 +8916,7 @@ NIT,"Indian Institute of Engineering Science and Technology, Shibpur","Mining En
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,OPNO,F,29622,32684
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,N,4407,4682
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWNO,F,5749,5749
-3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,,N,157,157
+3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,EWPH,N,157,157
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,N,9055,11369
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,BCNO,F,11978,14073
 3IT,"Indian institute of information technology, Raichur, Karnataka","Computer Science and Engineering (4 Years, Bachelor of Technology)",AI,SCNO,N,5650,6574

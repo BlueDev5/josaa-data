@@ -1,0 +1,1072 @@
+{
+  "Abu Dhabi Campus - Chemical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Abu Dhabi Campus - Chemical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Chemical Engineering"
+  },
+  "Abu Dhabi Campus - Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Abu Dhabi Campus - Computer Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology)",
+    "type": "Energy Engineering"
+  },
+  "Aerospace Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+    "type": "Aerospace Engineering"
+  },
+  "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Aerospace Engineering"
+  },
+  "Agricultural and Food Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Agricultural and Food Engineering (4 Years, Bachelor of Technology)",
+    "type": "Agricultural and Food Engineering"
+  },
+  "Applied Geology (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Applied Geology (4 Years, Bachelor of Science)",
+    "type": "Applied Geology"
+  },
+  "Applied Geology (5 Years, Integrated Master of Technology)": {
+    "degree_type": "IMTECH",
+    "name": "Applied Geology (5 Years, Integrated Master of Technology)",
+    "type": "Applied Geology"
+  },
+  "Applied Geophysics (4 Years, Bachelor of Science)": {
+    "degree_type": "BTECH",
+    "name": "Applied Geophysics (4 Years, Bachelor of Science)",
+    "type": "Applied Geophysics"
+  },
+  "Applied Geophysics (5 Years, Integrated Master of Technology)": {
+    "degree_type": "IMTECH",
+    "name": "Applied Geophysics (5 Years, Integrated Master of Technology)",
+    "type": "Applied Geophysics"
+  },
+  "Architecture (5 Years, Bachelor of Architecture)": {
+    "degree_type": "BARCH",
+    "name": "Architecture (5 Years, Bachelor of Architecture)",
+    "type": "Others"
+  },
+  "Artificial Intelligence (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence"
+  },
+  "Artificial Intelligence (5 Years, Integrated B. Tech. and M. Tech.)": {
+    "degree_type": "DD_BT_MT",
+    "name": "Artificial Intelligence (5 Years, Integrated B. Tech. and M. Tech.)",
+    "type": "Artificial Intelligence"
+  },
+  "Artificial Intelligence and Data Analytics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Artificial Intelligence and Data Analytics (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence and Data Science"
+  },
+  "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence and Data Science"
+  },
+  "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence and Data Science"
+  },
+  "Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Artificial Intelligence and Machine Learning (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence"
+  },
+  "B. Tech in CE. - M. Tech. in Geotechnical Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech in CE. - M. Tech. in Geotechnical Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Civil Engineering"
+  },
+  "B. Tech in CE. - M. Tech. in Structural Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech in CE. - M. Tech. in Structural Engineering (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Civil Engineering"
+  },
+  "B. Tech. (CSE) and M.Tech in CSE (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. (CSE) and M.Tech in CSE (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Computer Science and Engineering"
+  },
+  "B. Tech. (ECE) -M. Tech. in VLSI (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. (ECE) -M. Tech. in VLSI (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "B. Tech. (EEE)-M. Tech. in (Power &. Control) (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. (EEE)-M. Tech. in (Power &. Control) (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Electrical and Electronics Engineering"
+  },
+  "B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing) (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing) (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Mathematics and Computing"
+  },
+  "B. Tech. (ME) - M. Tech. in Mechatronics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. (ME) - M. Tech. in Mechatronics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Mechanical Engineering"
+  },
+  "B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree) (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B. Tech. and M. Tech. in Engineering and Computational Mechanics (Dual Degree) (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Engineering and Computational Mechanics"
+  },
+  "B.Tech (Artificial Intelligence and Data Science) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Artificial Intelligence and Data Science) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Artificial Intelligence and Data Science"
+  },
+  "B.Tech (Chemical Engineering) - MBA in Hospital and Health Care Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Chemical Engineering) - MBA in Hospital and Health Care Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Chemical Engineering"
+  },
+  "B.Tech (Chemical Science and Technology) - MBA in Hospital and Health Care Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Chemical Science and Technology) - MBA in Hospital and Health Care Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Chemical Sciences"
+  },
+  "B.Tech (Civil Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Civil Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Civil Engineering"
+  },
+  "B.Tech (Computer Science and Engineering) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Computer Science and Engineering) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Computer Science and Engineering"
+  },
+  "B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Electrical and Electronics Engineering"
+  },
+  "B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "B.Tech (Engineering Physics) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Engineering Physics) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Engineering Physics"
+  },
+  "B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Mathematics and Computing"
+  },
+  "B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Mechanical Engineering"
+  },
+  "B.Tech (Metallurgical and Materials Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "B.Tech (Metallurgical and Materials Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree))",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "B.Tech in General Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "B.Tech in General Engineering (4 Years, Bachelor of Technology)",
+    "type": "General Engineering"
+  },
+  "B.Tech in Materials Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "B.Tech in Materials Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Materials Engineering"
+  },
+  "B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology)",
+    "type": "Mathematics and Computing"
+  },
+  "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))",
+    "type": "Mechanical Engineering"
+  },
+  "B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  },
+  "B.Tech Mining Engineering and MBA in Logistic and Supply Chain Management (IIM Mumbai) (5 Years, Integrated B. Tech. and MBA)": {
+    "degree_type": "DD_BT_MT",
+    "name": "B.Tech Mining Engineering and MBA in Logistic and Supply Chain Management (IIM Mumbai) (5 Years, Integrated B. Tech. and MBA)",
+    "type": "Mining Engineering"
+  },
+  "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "B.Tech. in Electronics and Communication Engineering and M.Tech. in Microelectronics and VLSI Systems (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Bio Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Bio Engineering (4 Years, Bachelor of Technology)",
+    "type": "Bio Engineering"
+  },
+  "Bio Medical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Bio Medical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biomedical Engineering"
+  },
+  "Bio Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Bio Technology (4 Years, Bachelor of Technology)",
+    "type": "Biotechnology"
+  },
+  "Biochemical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biochemical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biomedical Engineering"
+  },
+  "Bioengineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Bioengineering (4 Years, Bachelor of Technology)",
+    "type": "Bio Engineering"
+  },
+  "Biological Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biological Engineering (4 Years, Bachelor of Technology)",
+    "type": "Bio Engineering"
+  },
+  "Biological Science (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Biological Science (4 Years, Bachelor of Science)",
+    "type": "Biological Science"
+  },
+  "Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biological Sciences and Bioengineering (4 Years, Bachelor of Technology)",
+    "type": "Bio Engineering"
+  },
+  "Biomedical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biomedical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biomedical Engineering"
+  },
+  "Biosciences and Bioengineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biosciences and Bioengineering (4 Years, Bachelor of Technology)",
+    "type": "Bio Engineering"
+  },
+  "Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Biotechnology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Biotechnology"
+  },
+  "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biotechnology and Biochemical Engineering"
+  },
+  "Biotechnology and Bioinformatics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Biotechnology and Bioinformatics (4 Years, Bachelor of Technology)",
+    "type": "Bioinformatics"
+  },
+  "BS in Chemical Sciences (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "BS in Chemical Sciences (4 Years, Bachelor of Science)",
+    "type": "Chemical Sciences"
+  },
+  "BS in Economics with MBA (IIM Bodh Gaya) (5 Years, Bachelor of Science and MBA (Dual Degree))": {
+    "degree_type": "DD_BT_MBA",
+    "name": "BS in Economics with MBA (IIM Bodh Gaya) (5 Years, Bachelor of Science and MBA (Dual Degree))",
+    "type": "Economics"
+  },
+  "BS in Mathematics (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "BS in Mathematics (4 Years, Bachelor of Science)",
+    "type": "Mathematics"
+  },
+  "Ceramic Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Ceramic Engineering (4 Years, Bachelor of Technology)",
+    "type": "Ceramic Engineering"
+  },
+  "Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Ceramic Engineering and M.Tech Industrial Ceramic (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Ceramic Engineering"
+  },
+  "Chemical and Biochemical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Chemical and Biochemical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biochemical Engineering"
+  },
+  "Chemical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Chemical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Chemical Engineering"
+  },
+  "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Chemical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Chemical Engineering"
+  },
+  "Chemical Science (5 Years, Integrated Bachelor of Science-Master of Science)": {
+    "degree_type": "DD_BS_MS",
+    "name": "Chemical Science (5 Years, Integrated Bachelor of Science-Master of Science)",
+    "type": "Chemical Sciences"
+  },
+  "Chemical Science and Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Chemical Science and Technology (4 Years, Bachelor of Technology)",
+    "type": "Chemical Sciences"
+  },
+  "Chemical Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Chemical Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Chemical Sciences"
+  },
+  "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Chemical Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Chemical Sciences"
+  },
+  "Chemistry (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Chemistry (4 Years, Bachelor of Science)",
+    "type": "Chemistry"
+  },
+  "Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Chemistry (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Chemistry"
+  },
+  "Chemistry (5 Years, Integrated Master of Science)": {
+    "degree_type": "IMSC",
+    "name": "Chemistry (5 Years, Integrated Master of Science)",
+    "type": "Chemistry"
+  },
+  "Chemistry with Specialization (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Chemistry with Specialization (4 Years, Bachelor of Science)",
+    "type": "Chemistry"
+  },
+  "Civil and Infrastructure Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Civil and Infrastructure Engineering (4 Years, Bachelor of Technology)",
+    "type": "Civil Engineering"
+  },
+  "Civil Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Civil Engineering (4 Years, Bachelor of Technology)",
+    "type": "Civil Engineering"
+  },
+  "Civil Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Civil Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Civil Engineering"
+  },
+  "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Civil Engineering with Specialization in Construction Technology and Management (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Civil Engineering"
+  },
+  "Computational and Data Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computational and Data Science (4 Years, Bachelor of Technology)",
+    "type": "Data Science"
+  },
+  "Computational Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computational Engineering (4 Years, Bachelor of Technology)",
+    "type": "Computational Engineering"
+  },
+  "Computational Engineering and Mechanics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computational Engineering and Mechanics (4 Years, Bachelor of Technology)",
+    "type": "Engineering and Computational Mechanics"
+  },
+  "Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Computational Mathematics (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Computational Engineering"
+  },
+  "Computer Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Business (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Business (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Business Systems"
+  },
+  "Computer Science and Engineering ( Artificial Intelligence & Data Science) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering ( Artificial Intelligence & Data Science) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (Artificial Intelligence and Machine Learning) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Computer Science and Engineering with Specialization in Cyber Security (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Computer Science and Engineering with Specialization in Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science and Engineering with specialization in Quantum Technologies (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science and Engineering with specialization in Quantum Technologies (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)",
+    "type": "Computer Science and Engineering"
+  },
+  "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)",
+    "type": "Artificial Intelligence and Data Science"
+  },
+  "Data Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Data Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Data Science"
+  },
+  "Design (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Design (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Design Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Design Engineering (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Digital Agriculture (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Digital Agriculture (4 Years, Bachelor of Technology)",
+    "type": "Agricultural and Food Engineering"
+  },
+  "Earth Sciences (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Earth Sciences (4 Years, Bachelor of Science)",
+    "type": "Earth Sciences"
+  },
+  "Economics (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Economics (4 Years, Bachelor of Science)",
+    "type": "Economics"
+  },
+  "Economics (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Economics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Economics"
+  },
+  "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electrical and Electronics Engineering"
+  },
+  "Electrical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electrical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electrical Engineering"
+  },
+  "Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electrical Engineering"
+  },
+  "Electrical Engineering (IC Design and Technology) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electrical Engineering (IC Design and Technology) (4 Years, Bachelor of Technology)",
+    "type": "Electrical Engineering"
+  },
+  "Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology)",
+    "type": "Electrical Engineering"
+  },
+  "Electrical Engineering (Power and Automation) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electrical Engineering (Power and Automation) (4 Years, Bachelor of Technology)",
+    "type": "Electrical Engineering"
+  },
+  "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Electrical Engineering with Specialization In Power System Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electrical Engineering"
+  },
+  "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering (VLSI Design) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering (VLSI Design) (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Electronics and Communication Engineering with Specialization in Microelectronics and VLSI System Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Communication Engineering with specialization in VLSI and Embedded Systems (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Communication Engineering with specialization in VLSI and Embedded Systems (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Electrical Communication Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electrical and Electronics Engineering"
+  },
+  "Electronics and Electrical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Electrical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electrical and Electronics Engineering"
+  },
+  "Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Instrumentation Engineering (4 Years, Bachelor of Technology)",
+    "type": "Instrumentation Engineering"
+  },
+  "Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and Telecommunication Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electronics and Communication Engineering"
+  },
+  "Electronics and VLSI Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics and VLSI Engineering (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  },
+  "Electronics Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics Engineering (4 Years, Bachelor of Technology)",
+    "type": "Electronics Engineering"
+  },
+  "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Electronics Engineering (VLSI Design and Technology) (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  },
+  "Energy and Electrical Vehicle Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Energy and Electrical Vehicle Engineering (4 Years, Bachelor of Technology)",
+    "type": "Energy Engineering"
+  },
+  "Energy Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Energy Engineering (4 Years, Bachelor of Technology)",
+    "type": "Energy Engineering"
+  },
+  "Engineering and Computational Mechanics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Engineering and Computational Mechanics (4 Years, Bachelor of Technology)",
+    "type": "Engineering and Computational Mechanics"
+  },
+  "Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Others"
+  },
+  "Engineering Physics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Engineering Physics (4 Years, Bachelor of Technology)",
+    "type": "Engineering Physics"
+  },
+  "Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Engineering Physics (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Engineering Physics"
+  },
+  "Engineering Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Engineering Science (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Environmental Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Environmental Engineering (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Environmental Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Environmental Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Earth Sciences"
+  },
+  "Exploration Geophysics (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Exploration Geophysics (4 Years, Bachelor of Science)",
+    "type": "Exploration Geophysics"
+  },
+  "Food Process Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Food Process Engineering (4 Years, Bachelor of Technology)",
+    "type": "Agricultural and Food Engineering"
+  },
+  "Geological Technology (5 Years, Integrated Master of Technology)": {
+    "degree_type": "IMTECH",
+    "name": "Geological Technology (5 Years, Integrated Master of Technology)",
+    "type": "Applied Geology"
+  },
+  "Geophysical Technology (5 Years, Integrated Master of Technology)": {
+    "degree_type": "IMTECH",
+    "name": "Geophysical Technology (5 Years, Integrated Master of Technology)",
+    "type": "Applied Geophysics"
+  },
+  "Industrial and Production Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial and Production Engineering (4 Years, Bachelor of Technology)",
+    "type": "Industrial and Production Engineering"
+  },
+  "Industrial and Systems Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial and Systems Engineering (4 Years, Bachelor of Technology)",
+    "type": "Industrial and Production Engineering"
+  },
+  "Industrial Chemistry (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial Chemistry (4 Years, Bachelor of Technology)",
+    "type": "Industrial Chemistry"
+  },
+  "Industrial Design (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial Design (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Industrial Engineering and Operations Research (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial Engineering and Operations Research (4 Years, Bachelor of Technology)",
+    "type": "Industrial and Production Engineering"
+  },
+  "Industrial Internet of Things (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Industrial Internet of Things (4 Years, Bachelor of Technology)",
+    "type": "Information Technology"
+  },
+  "Information Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Information Technology (4 Years, Bachelor of Technology)",
+    "type": "Information Technology"
+  },
+  "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Information Technology-Business Informatics (4 Years, Bachelor of Technology)",
+    "type": "Information Technology"
+  },
+  "Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Biomedical Engineering"
+  },
+  "Instrumentation and Control Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Instrumentation and Control Engineering (4 Years, Bachelor of Technology)",
+    "type": "Instrumentation and Control Engineering"
+  },
+  "Instrumentation Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Instrumentation Engineering (4 Years, Bachelor of Technology)",
+    "type": "Instrumentation Engineering"
+  },
+  "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+    "degree_type": "DD_BT_MT",
+    "name": "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)",
+    "type": "Information Technology"
+  },
+  "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+    "degree_type": "DD_BT_MBA",
+    "name": "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)",
+    "type": "Information Technology"
+  },
+  "Integrated Circuit Design & Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Integrated Circuit Design & Technology (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  },
+  "Interdisciplinary Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Interdisciplinary Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Others"
+  },
+  "Life Science (5 Years, Integrated Master of Science)": {
+    "degree_type": "IMSC",
+    "name": "Life Science (5 Years, Integrated Master of Science)",
+    "type": "Others"
+  },
+  "Manufacturing Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Manufacturing Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Manufacturing Engineering"
+  },
+  "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Material Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Materials Engineering"
+  },
+  "Materials Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Materials Engineering (4 Years, Bachelor of Technology)",
+    "type": "Materials Engineering"
+  },
+  "Materials Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Materials Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Materials Engineering"
+  },
+  "Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Materials Science and Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Materials Science and Technology (4 Years, Bachelor of Technology)",
+    "type": "Materials Engineering"
+  },
+  "Mathematics (5 Years, Integrated Master of Science)": {
+    "degree_type": "IMSC",
+    "name": "Mathematics (5 Years, Integrated Master of Science)",
+    "type": "Mathematics"
+  },
+  "Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Mathematics & Computing (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Computing (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Mathematics and Computing (4 Years, Bachelor of Science)",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mathematics and Computing (4 Years, Bachelor of Technology)",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Computing (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mathematics and Computing (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mathematics and Computing Technology (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mathematics and Data Science (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Data Science"
+  },
+  "Mathematics and Scientific Computing (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Mathematics and Scientific Computing (4 Years, Bachelor of Science)",
+    "type": "Mathematics and Computing"
+  },
+  "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)",
+    "type": "Mathematics and Computing"
+  },
+  "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mechanical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Mechanical Engineering"
+  },
+  "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Mechanical Engineering"
+  },
+  "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)",
+    "type": "Mechanical Engineering"
+  },
+  "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mechanical Engineering with Specialization in Manufacturing and Industrial Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Mechanical Engineering"
+  },
+  "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)",
+    "type": "Mechanical Engineering"
+  },
+  "Mechatronics Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mechatronics Engineering (4 Years, Bachelor of Technology)",
+    "type": "Mechanical Engineering"
+  },
+  "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Metallurgical and Materials Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Metallurgical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Metallurgical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical Engineering"
+  },
+  "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Metallurgy and Materials Engineering (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Microelectronics & VLSI Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Microelectronics & VLSI Engineering (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  },
+  "Mineral and Metallurgical Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mineral and Metallurgical Engineering (4 Years, Bachelor of Technology)",
+    "type": "Metallurgical and Materials Engineering"
+  },
+  "Mining Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mining Engineering (4 Years, Bachelor of Technology)",
+    "type": "Mining Engineering"
+  },
+  "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+    "degree_type": "DD_BT_MT",
+    "name": "Mining Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+    "type": "Mining Engineering"
+  },
+  "Mining Machinery Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Mining Machinery Engineering (4 Years, Bachelor of Technology)",
+    "type": "Mining Engineering"
+  },
+  "Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology)",
+    "type": "Ocean Engineering and Naval Architecture"
+  },
+  "Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology)",
+    "type": "Ocean Engineering and Naval Architecture"
+  },
+  "Petroleum Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Petroleum Engineering (4 Years, Bachelor of Technology)",
+    "type": "Petroleum Engineering"
+  },
+  "Pharmaceutical Engineering & Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Pharmaceutical Engineering & Technology (4 Years, Bachelor of Technology)",
+    "type": "Pharmaceutical Engineering and Technology"
+  },
+  "Physical Science (5 Years, Integrated Bachelor of Science-Master of Science)": {
+    "degree_type": "DD_BS_MS",
+    "name": "Physical Science (5 Years, Integrated Bachelor of Science-Master of Science)",
+    "type": "Physics"
+  },
+  "Physics (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Physics (4 Years, Bachelor of Science)",
+    "type": "Physics"
+  },
+  "Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))": {
+    "degree_type": "DD_BS_MS",
+    "name": "Physics (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+    "type": "Physics"
+  },
+  "Physics (5 Years, Integrated Master of Science)": {
+    "degree_type": "IMSC",
+    "name": "Physics (5 Years, Integrated Master of Science)",
+    "type": "Physics"
+  },
+  "Physics and Computational Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Physics and Computational Engineering (4 Years, Bachelor of Technology)",
+    "type": "Engineering and Computational Mechanics"
+  },
+  "Physics with Specialization (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Physics with Specialization (4 Years, Bachelor of Science)",
+    "type": "Physics"
+  },
+  "Planning (4 Years, Bachelor of Planning)": {
+    "degree_type": "BPLAN",
+    "name": "Planning (4 Years, Bachelor of Planning)",
+    "type": "Others"
+  },
+  "Production and Industrial Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Production and Industrial Engineering (4 Years, Bachelor of Technology)",
+    "type": "Industrial and Production Engineering"
+  },
+  "Production Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Production Engineering (4 Years, Bachelor of Technology)",
+    "type": "Industrial and Production Engineering"
+  },
+  "ROBOTICS & AUTOMATION (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "ROBOTICS & AUTOMATION (4 Years, Bachelor of Technology)",
+    "type": "Robotics and Automation"
+  },
+  "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Smart Manufacturing (4 Years, Bachelor of Technology)",
+    "type": "Others"
+  },
+  "Space Science and Engineering (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Space Science and Engineering (4 Years, Bachelor of Technology)",
+    "type": "Space Science and Engineering"
+  },
+  "Statistics and Data Science (4 Years, Bachelor of Science)": {
+    "degree_type": "BS",
+    "name": "Statistics and Data Science (4 Years, Bachelor of Science)",
+    "type": "Data Science"
+  },
+  "SUSTAINABLE ENERGY TECHNOLOGIES (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "SUSTAINABLE ENERGY TECHNOLOGIES (4 Years, Bachelor of Technology)",
+    "type": "Earth Sciences"
+  },
+  "Textile Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "Textile Technology (4 Years, Bachelor of Technology)",
+    "type": "Textile Engineering"
+  },
+  "VLSI Design and Technology (4 Years, Bachelor of Technology)": {
+    "degree_type": "BTECH",
+    "name": "VLSI Design and Technology (4 Years, Bachelor of Technology)",
+    "type": "VLSI"
+  }
+}
